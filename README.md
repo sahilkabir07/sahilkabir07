@@ -8,7 +8,7 @@
 <h3 align="centre">Graduated From Patna University 🏫🏫 (PHYSICS) ✖️➕➖🟰➗.....<h3/>
 <h3 align="centre">BELIEVE 🔖📚 in learning everyday <h3/>
 <div display=flex >
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN1YnRobnNtN3J4bmllNDAxZmJ1amVwaTVobnFvc3I1amphb2NjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="" width="300" height="300" style=boder-radius:25px >
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN1YnRobnNtN3J4bmllNDAxZmJ1amVwaTVobnFvc3I1amphb2NjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="" width="300" height="300"  >
 <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="" width="400 height="400 >
 <div/>
 
