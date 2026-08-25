@@ -37,21 +37,30 @@ I build scalable, production-ready web applications with a focus on
 <tr>
 
 <td align="center" width="250">
+
 <h3>🚀 Experience</h3>
+
 <b>1+ Year</b><br>
 Professional Full Stack Development
+
 </td>
 
 <td align="center" width="250">
+
 <h3>💻 Applications</h3>
+
 <b>10+ Web Apps</b><br>
 Built & Delivered
+
 </td>
 
 <td align="center" width="250">
+
 <h3>🤖 AI</h3>
+
 <b>OpenAI + Gemini</b><br>
 AI Applications & Automation
+
 </td>
 
 </tr>
@@ -149,7 +158,7 @@ AI Chat • Document Analysis • Report Generation • Workflow Automation
 
 <td align="center" width="250">
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 React<br>
 Next.js<br>
@@ -161,7 +170,7 @@ Responsive UI
 
 <td align="center" width="250">
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 Node.js<br>
 Express.js<br>
@@ -173,7 +182,7 @@ MVC Architecture
 
 <td align="center" width="250">
 
-### 🤖 AI
+<h3>🤖 AI</h3>
 
 OpenAI<br>
 Gemini<br>
@@ -199,43 +208,43 @@ Workflow Automation
 
 <td align="center" width="33%">
 
-### 🏥 AI Healthcare
+<h3>🏥 AI Healthcare</h3>
 
 AI-powered healthcare applications with intelligent workflows, document processing and automated reporting.
 
 <br>
 
-`React` `Node.js`<br>
-`TypeScript` `MongoDB`<br>
-`OpenAI` `Gemini`
+<code>React</code> <code>Node.js</code><br>
+<code>TypeScript</code> <code>MongoDB</code><br>
+<code>OpenAI</code> <code>Gemini</code>
 
 </td>
 
 <td align="center" width="33%">
 
-### ⚡ SaaS Applications
+<h3>⚡ SaaS Applications</h3>
 
 Scalable full-stack applications with authentication, dashboards, APIs and database integrations.
 
 <br>
 
-`Next.js` `TypeScript`<br>
-`PostgreSQL` `Prisma`<br>
-`Supabase`
+<code>Next.js</code> <code>TypeScript</code><br>
+<code>PostgreSQL</code> <code>Prisma</code><br>
+<code>Supabase</code>
 
 </td>
 
 <td align="center" width="33%">
 
-### 🎓 Web Platforms
+<h3>🎓 Web Platforms</h3>
 
 Modern responsive applications designed for real-world business and education use cases.
 
 <br>
 
-`React` `Node.js`<br>
-`MongoDB` `REST API`<br>
-`JWT`
+<code>React</code> <code>Node.js</code><br>
+<code>MongoDB</code> <code>REST API</code><br>
+<code>JWT</code>
 
 </td>
 
@@ -268,11 +277,13 @@ Modern responsive applications designed for real-world business and education us
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark&animation=draw" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark&animation=draw" width="95%"/>
 
 </div>
 
@@ -282,11 +293,7 @@ Modern responsive applications designed for real-world business and education us
 
 ## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilkabir07/sahilkabir07/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilkabir07/sahilkabir07/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/sahilkabir07/sahilkabir07/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/sahilkabir07/sahilkabir07/output/github-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -300,27 +307,35 @@ Modern responsive applications designed for real-world business and education us
 <tr>
 
 <td align="center">
+
 🔨<br>
 <b>Building</b><br>
 Full Stack Applications
+
 </td>
 
 <td align="center">
+
 🤖<br>
 <b>Exploring</b><br>
 AI × Web Development
+
 </td>
 
 <td align="center">
+
 ⚡<br>
 <b>Improving</b><br>
 Performance & UX
+
 </td>
 
 <td align="center">
+
 🧠<br>
 <b>Learning</b><br>
 System Architecture
+
 </td>
 
 </tr>
@@ -352,7 +367,7 @@ System Architecture
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/sahilakhtar07">
+<a href="https://www.linkedin.com/in/sahilakhtar07/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
