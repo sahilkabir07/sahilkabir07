@@ -1,33 +1,18 @@
-<!-- ===================================================== -->
-<!--                         HERO                          -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=230&section=header&text=Sahil%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=61&descSize=18"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=230&section=header&text=Sahil%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=61&descSize=18" width="100%"/>
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Production-Ready+Products;Always+Learning.+Always+Building."
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Production-Ready+Products;Always+Learning.+Always+Building." />
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=sahilkabir07&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
-/>
+<img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                        INTRO                          -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -43,10 +28,6 @@ Building scalable, production-ready web applications with a focus on
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                      QUICK INFO                       -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -95,10 +76,6 @@ AI Applications
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                      TECH STACK                       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -137,10 +114,6 @@ AI Applications
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                      EXPERIENCE                       -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -183,10 +156,6 @@ AI Chat • Document Analysis • Report Generation • Workflow Automation
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                      WHAT I BUILD                     -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -237,10 +206,6 @@ Automation
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                      PROJECTS                         -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -300,25 +265,15 @@ Modern responsive applications designed for real-world business and education us
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                         AI                            -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 ## 🤖 AI × Full Stack
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Chat+Applications;Document+Analysis;Automated+Report+Generation;AI+Workflow+Automation;OpenAI+%2B+Gemini+Integrations"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Chat+Applications;Document+Analysis;Automated+Report+Generation;AI+Workflow+Automation;OpenAI+%2B+Gemini+Integrations"/>
 
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                   GITHUB ANALYTICS                    -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -326,53 +281,27 @@ Modern responsive applications designed for real-world business and education us
 
 <br/>
 
-<a href="https://github.com/sahilkabir07">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-/>
+<br/><br/>
 
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/sahilkabir07">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                  GITHUB CONTRIBUTIONS                 -->
-<!-- ===================================================== -->
 
 <div align="center">
 
-## 📈 Contribution Activity
+## 📈 GitHub Activity
 
-<a href="https://github.com/sahilkabir07">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkabir07&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark&animation=draw" width="100%"/>
 
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                     CURRENTLY                        -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -424,10 +353,6 @@ System Architecture
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                    PHILOSOPHY                         -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 ## 💭 Developer Philosophy
@@ -439,10 +364,6 @@ System Architecture
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!--                     CONNECT                           -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -470,11 +391,4 @@ System Architecture
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                      FOOTER                           -->
-<!-- ===================================================== -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=130&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=130&section=footer" width="100%"/>
