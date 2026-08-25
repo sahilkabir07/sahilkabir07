@@ -1,386 +1,314 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=230&section=header&text=Sahil%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=61&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=240&section=header&text=Sahil%20Akhtar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=62&descSize=18" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Production-Ready+Products;Always+Learning.+Always+Shipping." />
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 👋 Hey, I'm Sahil
-
-### AI Full Stack Developer
-
-**MERN • Next.js • TypeScript • AI • REST APIs • Databases**
-
-I build scalable, production-ready web applications with a focus on  
-**modern UI, backend architecture, AI integrations, performance and UX.**
+<a href="https://github.com/sahilkabir07">
+<img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=Profile+Views&color=0078d4&style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sahilakhtar07">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sahilakthar8986@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+
+```ts
+const sahil = {
+  name:       "Sahil Akhtar",
+  role:       "AI Full Stack Developer",
+  location:   "Patna, Bihar, India",
+  experience: "1+ Year  |  10+ Apps Delivered",
+
+  stack: {
+    frontend : ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend  : ["Node.js", "Express.js", "REST APIs"],
+    database : ["MongoDB", "PostgreSQL", "MySQL", "Supabase"],
+    ai       : ["OpenAI GPT-4o", "Gemini", "Prompt Eng."],
+    devops   : ["Git", "Docker", "Vercel", "Netlify"],
+  },
+
+  currently : "Full Stack Dev @ Zystra Technologies",
+  contract  : "AI Healthcare Dev @ AnubhutiHealth",
+  philosophy: "Build → Learn → Improve → Repeat",
+  open_to   : "Freelance · Full-time · Collaborations",
+};
+```
+
+<br clear="right"/>
+
+---
+
+## Quick Stats
 
 <div align="center">
 
-## ⚡ Quick Overview
+|  Experience  |  Apps Shipped  |  AI Stack  |  Live Client Sites  |
+|:---:|:---:|:---:|:---:|
+| **1+ Year** | **10+ Applications** | **OpenAI + Gemini** | **7 Websites** |
 
-<table align="center">
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&perline=8"/>
+
+<br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=8"/>
+
+<br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma&perline=8"/>
+
+<br/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode&perline=8"/>
+
+<br/>
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-Expert-0f172a?style=for-the-badge&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/AI_Automation-Builder-0f172a?style=for-the-badge&logoColor=a78bfa"/>
+
+</div>
+
+---
+
+## Work Experience
+
+<details open>
+<summary><b>🏢 &nbsp;Zystra Technologies — Full Stack Developer &nbsp;&nbsp;<code>Apr 2025 – Present</code></b></summary>
+<br/>
+
+> Building production-grade web applications across multiple industry domains.
+
+- Built **10+ full-stack applications** using MERN stack with REST API backends
+- Delivered solutions across **Healthcare, Education, Recruitment, Agriculture & Wellness**
+- Shipped **6 live client websites** with mobile-first design and SEO optimization
+- Implemented **JWT Auth, RBAC & RESTful API design** across all projects
+
+`React` `Node.js` `Express` `MongoDB` `TypeScript` `JWT`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 &nbsp;AnubhutiHealth — AI Full Stack Developer &nbsp;&nbsp;<code>Jul 2025 – Jul 2026 (Contract)</code></b></summary>
+<br/>
+
+> Built an AI-powered healthcare intelligence platform from the ground up.
+
+- Integrated **OpenAI GPT-4o & Google Gemini** for intelligent clinical workflows
+- Built **Document Analysis, Report Generation & Clinical Workflow Automation**
+- Developed **AI Chat modules** with context-aware medical assistance
+- Deployed to production at [anubhutihealth.com](https://anubhutihealth.com)
+
+`TypeScript` `React` `Next.js` `OpenAI` `Gemini` `Node.js` `MongoDB`
+
+</details>
+
+---
+
+## Projects
+
+<div align="center">
+
+<table>
 <tr>
+<td width="33%" valign="top" align="center">
 
-<td align="center" width="250">
+**AI Healthcare Platform**
 
-<h3>🚀 Experience</h3>
+*AnubhutiHealth*
 
-<b>1+ Year</b><br>
-Professional Full Stack Development
+AI clinical intelligence with document analysis, diagnostic chat & automated report generation
 
-</td>
+`React` `TypeScript` `OpenAI` `Gemini` `MongoDB`
 
-<td align="center" width="250">
-
-<h3>💻 Applications</h3>
-
-<b>10+ Web Apps</b><br>
-Built & Delivered
+![](https://img.shields.io/badge/Status-Live-48e06e?style=flat-square)
 
 </td>
+<td width="33%" valign="top" align="center">
 
-<td align="center" width="250">
+**MERN SaaS Dashboard**
 
-<h3>🤖 AI</h3>
+*Zystra Technologies*
 
-<b>OpenAI + Gemini</b><br>
-AI Applications & Automation
+Multi-tenant SaaS platform with auth, dashboards, team roles & REST API integrations
+
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `JWT`
+
+![](https://img.shields.io/badge/Status-Live-48e06e?style=flat-square)
 
 </td>
+<td width="33%" valign="top" align="center">
 
+**Client Web Platforms**
+
+*Multiple Clients*
+
+7 live websites across Healthcare, Solar, Herbal & HR with CMS and mobile-first design
+
+`React` `Node.js` `MongoDB` `REST API`
+
+![](https://img.shields.io/badge/Sites-7+%20Live-38bdf8?style=flat-square)
+
+</td>
 </tr>
 </table>
 
 </div>
 
-<br>
+---
+
+## Live Client Work
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
-
-<br><br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma&perline=5" />
-
-<br><br>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify&perline=6" />
-
-<br><br>
-
-### AI
-
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
+| Site | Industry | Role |
+|:----:|:--------:|:----:|
+| [zystra.in](https://zystra.in) | Tech Agency | Full Stack Dev |
+| [cursorseo.com](https://cursorseo.com) | Digital Marketing | Full Stack Dev |
+| [vedsaathiherbal.com](https://vedsaathiherbal.com) | Herbal / Wellness | Full Stack Dev |
+| [saanvihumanresources.com](https://saanvihumanresources.com) | HR / Recruitment | Full Stack Dev |
+| [hindsolar.in](https://hindsolar.in) | Solar Energy | Full Stack Dev |
+| [warecareherbal.com](https://warecareherbal.com) | Herbal Products | Full Stack Dev |
+| [anubhutihealth.com](https://anubhutihealth.com) | AI Healthcare | Contract Dev |
 
 </div>
 
-<br>
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-## 💼 Experience
+<img src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sahilkabir07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=e2e8f0" height="170"/>
 
-### 🚀 Full Stack Developer — Zystra Technologies
+<br/><br/>
 
-**April 2025 – Present**
-
-<br>
-
-<img src="https://img.shields.io/badge/MERN%20Stack-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/10%2B%20Applications-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-0f172a?style=for-the-badge"/>
-
-<br><br>
-
-Healthcare • Education • Recruitment • Agriculture • Wellness • Digital Marketing
-
-<br><br>
-
-### 🤖 Full Stack Developer — AnubhutiHealth
-
-**July 2025 – July 2026**
-
-<br>
-
-<img src="https://img.shields.io/badge/AI%20Healthcare-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge"/>
-
-<br><br>
-
-AI Chat • Document Analysis • Report Generation • Workflow Automation
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="150"/>
 
 </div>
 
-<br>
+---
+
+## Contribution Graph
 
 <div align="center">
 
-## 🧠 What I Build
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark" width="100%"/>
 
-<table align="center">
-<tr>
+<br/>
 
-<td align="center" width="250">
-
-<h3>🎨 Frontend</h3>
-
-React<br>
-Next.js<br>
-Tailwind CSS<br>
-Framer Motion<br>
-Responsive UI
-
-</td>
-
-<td align="center" width="250">
-
-<h3>⚙️ Backend</h3>
-
-Node.js<br>
-Express.js<br>
-REST APIs<br>
-JWT Authentication<br>
-MVC Architecture
-
-</td>
-
-<td align="center" width="250">
-
-<h3>🤖 AI</h3>
-
-OpenAI<br>
-Gemini<br>
-AI Chatbots<br>
-Document Analysis<br>
-Workflow Automation
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark" width="48%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark" width="48%"/>
 
 </div>
 
-<br>
+---
+
+## What I Build
 
 <div align="center">
 
-## 🚀 Featured Work
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🏥 AI Healthcare</h3>
-
-AI-powered healthcare applications with intelligent workflows, document processing and automated reporting.
-
-<br>
-
-<code>React</code> <code>Node.js</code><br>
-<code>TypeScript</code> <code>MongoDB</code><br>
-<code>OpenAI</code> <code>Gemini</code>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>⚡ SaaS Applications</h3>
-
-Scalable full-stack applications with authentication, dashboards, APIs and database integrations.
-
-<br>
-
-<code>Next.js</code> <code>TypeScript</code><br>
-<code>PostgreSQL</code> <code>Prisma</code><br>
-<code>Supabase</code>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🎓 Web Platforms</h3>
-
-Modern responsive applications designed for real-world business and education use cases.
-
-<br>
-
-<code>React</code> <code>Node.js</code><br>
-<code>MongoDB</code> <code>REST API</code><br>
-<code>JWT</code>
-
-</td>
-
-</tr>
-</table>
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   Frontend              Backend             AI Integration        ║
+║   ──────────────        ─────────────       ──────────────────    ║
+║   React / Next.js       Node.js             OpenAI GPT-4o         ║
+║   TypeScript            Express.js          Google Gemini         ║
+║   Tailwind CSS          REST APIs           AI Chatbots           ║
+║   Framer Motion         JWT Auth            Document Analysis     ║
+║   Responsive UI         MVC Pattern         Workflow Automation   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<br>
+---
+
+## Currently
 
 <div align="center">
 
-## 🤖 AI × Full Stack
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Chat+Applications;Document+Analysis;Automated+Report+Generation;AI+Workflow+Automation;OpenAI+%2B+Gemini+Integrations"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Full+Stack+Apps+at+Zystra+Technologies;Exploring+AI+x+Web+Development;Improving+Performance+%26+Developer+Experience;Learning+System+Design+%26+Architecture"/>
 
 </div>
 
-<br>
+---
+
+## Developer Philosophy
 
 <div align="center">
-
-## 📊 GitHub Analytics
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark&animation=draw" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/sahilkabir07/sahilkabir07/output/github-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🔭 Currently
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-🔨<br>
-<b>Building</b><br>
-Full Stack Applications
-
-</td>
-
-<td align="center">
-
-🤖<br>
-<b>Exploring</b><br>
-AI × Web Development
-
-</td>
-
-<td align="center">
-
-⚡<br>
-<b>Improving</b><br>
-Performance & UX
-
-</td>
-
-<td align="center">
-
-🧠<br>
-<b>Learning</b><br>
-System Architecture
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 💭 Developer Philosophy
 
 ### `Build → Learn → Improve → Repeat`
 
-> **The best way to learn development is to build real things.**
+> *"The best way to learn development is to build real things."*
 
 </div>
 
-<br>
+---
+
+## Connect
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-<br>
+<br/>
 
 <a href="https://github.com/sahilkabir07">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%40sahilkabir07-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/sahilakhtar07/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<a href="https://linkedin.com/in/sahilakhtar07">
+<img src="https://img.shields.io/badge/LinkedIn-%40sahilakhtar07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:sahilakthar8986@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-sahilakthar8986-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-### 🚀 Building the future, one commit at a time.
+📍 Patna, Bihar, India &nbsp;|&nbsp; 📞 +91 9117215352 &nbsp;|&nbsp; 🟢 Open to Opportunities
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=130&section=footer" width="100%"/>
