@@ -1,22 +1,33 @@
-<!-- ======================= HERO ======================= -->
+<!-- ===================================================== -->
+<!--                         HERO                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=230&section=header&text=Sahil%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=61&descSize=18" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=230&section=header&text=Sahil%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=61&descSize=18"
+  width="100%"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Production-Ready+Products;Always+Learning.+Always+Building." />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;AI+%C3%97+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Production-Ready+Products;Always+Learning.+Always+Building."
+/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img
+  src="https://komarev.com/ghpvc/?username=sahilkabir07&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
+/>
 
 </div>
 
 <br/>
 
-<!-- ======================= INTRO ======================= -->
+<!-- ===================================================== -->
+<!--                        INTRO                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -26,34 +37,67 @@
 
 **MERN • Next.js • TypeScript • AI • REST APIs • Databases**
 
-I build scalable, production-ready web applications with a focus on  
-**modern UI, robust backend architecture, AI integrations, performance and UX.**
+Building scalable, production-ready web applications with a focus on  
+**modern UI, backend architecture, AI integrations, performance and UX.**
 
 </div>
 
 <br/>
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ===================================================== -->
+<!--                      QUICK INFO                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-## 🧑‍💻 About Me
+## ⚡ Quick Overview
 
-</div>
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="250">
 
-| 🚀 Experience | 🤖 AI | ⚡ Focus |
-|:---:|:---:|:---:|
-| 1+ Year Professional Experience | OpenAI & Gemini | Full Stack Development |
-| 10+ Web Applications | AI Chat & Automation | Scalable Applications |
-| MERN / Next.js | Document Analysis | SaaS & Modern UX |
+### 🚀 Experience
+
+**1+ Year**
+
+Professional  
+Full Stack Development
+
+</td>
+
+<td align="center" width="250">
+
+### 💻 Applications
+
+**10+**
+
+Web Applications  
+Built & Delivered
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 AI
+
+**OpenAI + Gemini**
+
+AI Applications  
+& Automation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ======================= TECH STACK ======================= -->
+<!-- ===================================================== -->
+<!--                      TECH STACK                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -63,29 +107,40 @@ I build scalable, production-ready web applications with a focus on
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&perline=8" />
 
+<br/><br/>
+
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" />
+
+<br/><br/>
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma&perline=8" />
 
-### AI & Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,netlify&perline=8" />
+### DevOps & Tools
 
-<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify&perline=8" />
+
+<br/><br/>
+
+### AI
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<!-- ======================= EXPERIENCE ======================= -->
+<!-- ===================================================== -->
+<!--                      EXPERIENCE                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -95,68 +150,111 @@ I build scalable, production-ready web applications with a focus on
 
 **April 2025 – Present**
 
-</div>
-
-<div align="center">
-
-**10+ Web Applications** • **MERN Stack** • **REST APIs** • **JWT** • **MongoDB**
-
-`Healthcare` • `Education` • `Recruitment` • `Agriculture` • `Wellness` • `Digital Marketing`
-
-</div>
-
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/MERN%20Stack-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10%2B%20Applications-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-0f172a?style=for-the-badge"/>
+
+<br/><br/>
+
+Healthcare • Education • Recruitment • Agriculture • Wellness • Digital Marketing
+
+<br/><br/>
+
+---
 
 ### 🤖 Full Stack Developer — AnubhutiHealth
 
 **July 2025 – July 2026**
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/AI%20Healthcare-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge"/>
 
-**AI Healthcare Applications** • **OpenAI** • **Gemini** • **TypeScript** • **Node.js**
+<br/><br/>
 
-`AI Chat` • `Document Analysis` • `Report Generation` • `Workflow Automation`
+AI Chat • Document Analysis • Report Generation • Workflow Automation
 
 </div>
 
 <br/>
 
-<!-- ======================= WHAT I BUILD ======================= -->
+<!-- ===================================================== -->
+<!--                      WHAT I BUILD                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 ## 🧠 What I Build
 
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Gemini-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Architecture-REST%20%7C%20JWT%20%7C%20MVC-0f172a?style=for-the-badge"/>
+<table>
+<tr>
+
+<td align="center">
+
+### 🎨 Frontend
+
+React  
+Next.js  
+Tailwind CSS  
+Framer Motion  
+Responsive UI
+
+</td>
+
+<td align="center">
+
+### ⚙️ Backend
+
+Node.js  
+Express.js  
+REST APIs  
+JWT Authentication  
+MVC Architecture
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+OpenAI  
+Gemini  
+AI Chatbots  
+Document Analysis  
+Automation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ======================= PROJECTS ======================= -->
+<!-- ===================================================== -->
+<!--                      PROJECTS                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-</div>
+<table>
 
-<table align="center">
 <tr>
 
 <td width="33%" align="center">
 
 ### 🏥 AI Healthcare
 
-AI-powered healthcare applications with intelligent workflows, document analysis and automated reporting.
+AI-powered healthcare applications with intelligent workflows, document processing and automated reporting.
 
 <br/>
 
@@ -195,23 +293,32 @@ Modern responsive applications designed for real-world business and education us
 </td>
 
 </tr>
+
 </table>
-
-<br/>
-
-<!-- ======================= AI ======================= -->
-
-<div align="center">
-
-## 🤖 AI × Full Stack
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Chat+Applications;Document+Analysis;Automated+Report+Generation;AI+Workflow+Automation;OpenAI+%2B+Gemini+Integrations" />
 
 </div>
 
 <br/>
 
-<!-- ======================= GITHUB ======================= -->
+<!-- ===================================================== -->
+<!--                         AI                            -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 🤖 AI × Full Stack
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Chat+Applications;Document+Analysis;Automated+Report+Generation;AI+Workflow+Automation;OpenAI+%2B+Gemini+Integrations"
+/>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -219,47 +326,107 @@ Modern responsive applications designed for real-world business and education us
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/sahilkabir07">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
 
-<br/><br/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=sahilkabir07&theme=tokyonight&hide_border=true"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/sahilkabir07">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</a>
 
 </div>
 
 <br/>
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB CONTRIBUTIONS                 -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<a href="https://github.com/sahilkabir07">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkabir07&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</a>
 
 </div>
 
 <br/>
 
-<!-- ======================= CURRENTLY ======================= -->
+<!-- ===================================================== -->
+<!--                     CURRENTLY                        -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 ## 🔭 Currently
 
-**Building** → Full Stack Applications  
-**Exploring** → AI × Web Development  
-**Improving** → System Architecture & Performance  
-**Learning** → Scalable SaaS Architecture  
-**Creating** → Better Digital Experiences
+<table>
+<tr>
+
+<td align="center">
+
+🔨  
+**Building**
+
+Full Stack Applications
+
+</td>
+
+<td align="center">
+
+🤖  
+**Exploring**
+
+AI × Web Development
+
+</td>
+
+<td align="center">
+
+⚡  
+**Improving**
+
+Performance & UX
+
+</td>
+
+<td align="center">
+
+🧠  
+**Learning**
+
+System Architecture
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ======================= PHILOSOPHY ======================= -->
+<!-- ===================================================== -->
+<!--                    PHILOSOPHY                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -267,14 +434,15 @@ Modern responsive applications designed for real-world business and education us
 
 ### `Build → Learn → Improve → Repeat`
 
-I believe the best way to grow is to build real products,  
-solve real problems, and continuously improve every iteration.
+> **"The best way to learn development is to build real things."**
 
 </div>
 
 <br/>
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ===================================================== -->
+<!--                     CONNECT                           -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -300,6 +468,13 @@ solve real problems, and continuously improve every iteration.
 
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=130&section=footer" width="100%"/>
+<!-- ===================================================== -->
+<!--                      FOOTER                           -->
+<!-- ===================================================== -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=130&section=footer"
+  width="100%"
+/>
