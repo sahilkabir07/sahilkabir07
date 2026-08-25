@@ -320,45 +320,17 @@ Workflow Automation
 
 <br>
 
-<a href="https://github.com/sahilkabir07">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&count_private=true" width="48%"/>
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/sahilkabir07">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" width="48%"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilkabir07&theme=github_dark&animation=load" width="495"/>
 
 <br><br>
 
-<a href="https://github.com/sahilkabir07">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkabir07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8" width="70%"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark&animation=rise" width="495"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkabir07&theme=github_dark" width="45%"/>
-
-&nbsp;&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkabir07&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkabir07&theme=github_dark&animation=draw" width="95%"/>
 
 </div>
 
