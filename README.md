@@ -1,39 +1,110 @@
+# 👋 Hey, I'm Sahil Akhtar
 
-<span align="middle">
-<img  src="https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg">
-  <span/>
-    
-<h1 align="center">Hi 👋, My-Self Sahil Akhtar</h1>
-<h3 align="center">An Enthusiast... ✌️.. Full Stack Web dev 👨‍💻👨‍💻 from INDIA .....</h3>
-<h3 align="centre">Graduated From Patna University 🏫🏫 (PHYSICS) ✖️➕➖🟰➗.....<h3/>
-<h3 align="centre">BELIEVE 🔖📚 in learning everyday <h3/>
-<div display=flex >
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN1YnRobnNtN3J4bmllNDAxZmJ1amVwaTVobnFvc3I1amphb2NjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="" width="300" height="300"  >
-<img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="" width="400 height="400 >
-<div/>
+### AI Full Stack Developer • MERN • Next.js • TypeScript
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkabir07&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkabir07" /> </p>
+I build **scalable, production-ready web applications** with a focus on clean UI, robust backend architecture, AI integrations, and performance.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkabir07" alt="sahilkabir07" /></a> </p>
+Currently working as a **Full Stack Developer at Zystra Technologies**, where I've worked on 10+ web applications across healthcare, education, recruitment, agriculture, wellness, and digital marketing.
 
-- 🌱 I’m currently learning **Html, CSS ,JavaScript**
+Previously, I worked with **AnubhutiHealth** on AI-powered healthcare applications, integrating OpenAI and Gemini for AI chat, document analysis, report generation, and workflow automation.
 
-- 📫 How to reach me **sahilakthar8986@gmail.com**
+---
 
-- ⚡ Fun fact **i am passionate 💪... fun loving😉**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil akhtar" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilkabir1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkabir1307" height="30" width="40" /></a>
+* 🚀 1+ year of professional Full Stack development experience
+* ⚡ Building with **React, Next.js, Node.js & TypeScript**
+* 🤖 Working with **OpenAI & Gemini APIs**
+* 🏗️ Experienced in REST APIs, authentication & scalable backend systems
+* 🗄️ MongoDB, PostgreSQL, MySQL & Supabase
+* ☁️ Experience with Vercel, Netlify, Render & cloud deployments
+* 🎨 Interested in modern UI, animations, performance & UX
+* 🎓 B.Sc. in Physics from Patna University
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### Backend & Database
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkabir07&show_icons=true&locale=en&layout=compact" alt="sahilkabir07" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&locale=en" alt="sahilkabir07" /></p>
+### AI & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkabir07&" alt="sahilkabir07" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=openai,docker,git,github,postman,vercel" />
+</p>
 
+**AI:** OpenAI API • Gemini API • Prompt Engineering • AI Chatbots • AI Workflow Automation
+**Architecture:** REST APIs • JWT Authentication • MVC • CI/CD
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer — Zystra Technologies
+
+`Apr 2025 – Present`
+
+* Built 10+ scalable MERN applications and business websites
+* Developed responsive React interfaces and secure REST APIs
+* Implemented JWT authentication and MongoDB integrations
+* Worked on SEO, performance, accessibility and UX optimization
+
+### Full Stack Developer — AnubhutiHealth
+
+`Jul 2025 – Jul 2026`
+
+* Built AI-powered healthcare applications
+* Integrated OpenAI & Gemini APIs
+* Developed AI chat, document analysis and report generation workflows
+* Built dashboards, authentication systems and production-ready APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkabir07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilkabir07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 What I'm Interested In
+
+```text
+AI × Web Development
+Scalable SaaS Applications
+Modern React / Next.js Experiences
+Backend Architecture
+AI-powered Automation
+Performance & UX
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/sahilakhtar07">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sahilakthar8986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+> **Always building. Always learning. 🚀**
