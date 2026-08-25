@@ -24,7 +24,11 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```ts
 const sahil = {
@@ -48,7 +52,16 @@ const sahil = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="coding"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -56,7 +69,7 @@ const sahil = {
 
 <div align="center">
 
-|  Experience  |  Apps Shipped  |  AI Stack  |  Live Client Sites  |
+| Experience | Apps Shipped | AI Stack | Live Client Sites |
 |:---:|:---:|:---:|:---:|
 | **1+ Year** | **10+ Applications** | **OpenAI + Gemini** | **7 Websites** |
 
@@ -151,7 +164,7 @@ const sahil = {
 
 *AnubhutiHealth*
 
-AI clinical intelligence with document analysis, diagnostic chat & automated report generation
+AI clinical intelligence with document analysis, diagnostic chat and automated report generation
 
 `React` `TypeScript` `OpenAI` `Gemini` `MongoDB`
 
@@ -164,7 +177,7 @@ AI clinical intelligence with document analysis, diagnostic chat & automated rep
 
 *Zystra Technologies*
 
-Multi-tenant SaaS platform with auth, dashboards, team roles & REST API integrations
+Multi-tenant SaaS platform with auth, dashboards, team roles and REST API integrations
 
 `Next.js` `Node.js` `PostgreSQL` `Prisma` `JWT`
 
@@ -177,7 +190,7 @@ Multi-tenant SaaS platform with auth, dashboards, team roles & REST API integrat
 
 *Multiple Clients*
 
-7 live websites across Healthcare, Solar, Herbal & HR with CMS and mobile-first design
+7 live websites across Healthcare, Solar, Herbal and HR with CMS and mobile-first design
 
 `React` `Node.js` `MongoDB` `REST API`
 
@@ -213,9 +226,9 @@ Multi-tenant SaaS platform with auth, dashboards, team roles & REST API integrat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahilkabir07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&count_private=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sahilkabir07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=e2e8f0" height="170"/>
+<img src="https://streak-stats.demolab.com?user=sahilkabir07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=e2e8f0" height="165"/>
 
 <br/><br/>
 
